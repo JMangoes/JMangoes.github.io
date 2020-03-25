@@ -1,0 +1,247 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    background: black;
+}
+
+header {
+    background: black;
+}
+
+a {
+    color: #120d12;
+}
+
+
+#LA {
+    display: block;
+    margin: 0 auto;
+    width: 1500px;
+    height: 800px;
+    margin-top: -20px;
+    margin-bottom: -5px;
+}
+
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 75px;
+    color: gold;
+    text-align: center;
+}
+
+.maxWidth {
+    background: #efeee7;
+}
+
+.container {
+    background: #efeee7;
+}
+
+h3 {
+    padding-top: 25px;
+}
+
+p {
+    text-indent: 30px;
+}
+
+.conainer-fluid {
+    max-width: 1500px;
+}
+
+.maxWidth {
+    max-width: 1500px;
+}
+
+#LAFC {
+    width: 450px;
+    height: 325px;
+    margin-top: 45px;
+    margin-left: 15px;
+}
+
+#galaxy {
+    width: 450px;
+    height: 325px;
+    margin-top: 45px;
+    margin-left: 15px;
+}
+
+#LAFCLogo {
+    width: 425px;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+#GalaxyLogo {
+    width: 425px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+#map {
+    height: 50%;
+    width: 100%;
+}
+
+.myButton {
+    box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#120d12;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ffee66;
+    margin-left: 175px;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+#gear {
+    font-size: 25px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#hat {
+    width: 260px;
+    height: 250px;
+    padding-right: 10px;
+}
+
+#hathyper {
+    padding-left: 70px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#jerseyhyper {
+    padding-left: 115px;
+    color: white;
+    font-weight: bold;
+}
+
+#jersey {
+    width: 260px;
+    height: 250px;
+    margin-left: 15px;
+}
+
+#scarf {
+    width: 260px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+#scarfhyper {
+    margin-left: 175px;
+    padding-top: -100px;
+    color: white;
+    font-weight: bold;
+}
+
+#paragraph4 {
+    padding-top: 30px;
+}
+
+#fanfest {
+    width: 500px;
+    height: 475px;
+    margin-bottom: 20px;
+}
+
+#rally {
+    width: 525px;
+    height: 425px;
+    margin-top: 25px;
+}
+
+#dj {
+    width: 650px;
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 45px;
+    margin-top: 50px;
+}
+
+#trafico {
+    display: block;
+    margin: 0 auto;
+}
+
+#player {
+    float: left;
+    width: 425px;
+    height: 300px;
+    margin-right: 25px;
+    margin-left: -45px;
+    margin-bottom: 15px;
+    padding-left: 40px;
+}
+
+#fans {
+    width: 400px;
+    height: 350px;
+}
+
+#contest {
+    text-align: center;
+    margin-top: -10px;
+    font-weight: bold;
+}
+
+#rules {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#sponsorship {
+    text-align: center;
+}
+
+#draftkings {
+    width: 350px;
+    height: 275px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 100px;
+}
+
+#here {
+    color: blue;
+}
+
+.square-image {
+    background: black;
+    box-sizing: border-box;
+    font-weight: 450;
+}
+
+#text-center {
+    margin-left: 60px;
+}
